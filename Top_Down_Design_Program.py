@@ -1,6 +1,3 @@
-## CST-16163 Intro to Computer Programming
-## By: Aaron Knowles
-
 def main():
     # Instructions
     print("Consider a cannonball shot straight up into the air. " \
